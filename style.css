@@ -48,7 +48,7 @@ html{
 }
 
 .logo{
-    font-size: 22px;
+    font-size: 24px;
 }
 
 .nav_link a{
@@ -70,7 +70,7 @@ html{
 .social_icons a{
 	transition-duration: 1.5s;
     transition-property: all;
-    font-size: 20px;
+    font-size: 21px;
 }
 
 .social_icons a:hover{
@@ -730,7 +730,7 @@ html{
     height: 35vh;
     width: 35vh;
     border-radius: 50%;
-    margin-left: 17vw;  
+    margin-left: 20vw;  
     margin-right: 12vw;
     margin-top: 15vh;
     margin-bottom: 15vh;
@@ -785,7 +785,7 @@ html{
     width: 100%;
     height: 50px;
     color: white;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 footer{
@@ -799,7 +799,7 @@ footer{
 
 .credits{
     color: white;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .button{

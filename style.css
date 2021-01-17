@@ -48,7 +48,7 @@ html{
 }
 
 .logo{
-    font-size: 24px;
+    font-size: 150px;
 }
 
 .nav_link a{
@@ -70,7 +70,7 @@ html{
 .social_icons a{
 	transition-duration: 1.5s;
     transition-property: all;
-    font-size: 21px;
+    font-size: 21vh;
 }
 
 .social_icons a:hover{

@@ -161,7 +161,7 @@ header{
 }
 
 .changeline .line1{
-    transform: rotateZ(-45deg) translate(-6px, 5px);
+    transform: rotateZ(-45deg) translate(-8px, 5px);
 }
 
 .changeline .line2{
@@ -169,7 +169,7 @@ header{
 }
 
 .changeline .line3{
-    transform: rotateZ(45deg) translate(-6px, -5px);
+    transform: rotateZ(45deg) translate(-8px, -5px);
 }
 
 .change{
@@ -1083,11 +1083,11 @@ footer{
     }
 
     .changeline .line1{
-        transform: rotateZ(-45deg) translate(-5px, 4px);
+        transform: rotateZ(-45deg) translate(-7px, 4px);
     }
     
     .changeline .line3{
-        transform: rotateZ(45deg) translate(-5px, -4px);
+        transform: rotateZ(45deg) translate(-7px, -4px);
     }
 
     .flag_en, .flag_fr{
